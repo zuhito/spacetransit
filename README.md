@@ -18,4 +18,5 @@
 
     (3) load output file to dashDB on IBM Bluemix
 
-If you have any question, please contact me freely.
+
+    If you have any question, please contact me freely.
