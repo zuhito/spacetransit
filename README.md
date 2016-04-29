@@ -12,9 +12,7 @@
 
     (1) compile DataBuilder.java using javac command
 
-    (2) run DataBuilder using java command
-
-        Input file: hipparcos.csv
+    (2) run DataBuilder using java command (Input file: hipparcos.csv)
 
     (3) load output file to dashDB on IBM Bluemix
 
